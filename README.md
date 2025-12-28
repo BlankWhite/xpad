@@ -23,7 +23,7 @@ Opinion: rather get a controller that supports bluetooth.
 
 # Installing
 ```
-sudo git clone https://github.com/paroj/xpad.git /usr/src/xpad-0.4
+sudo git clone https://github.com/blankwhite/xpad.git /usr/src/xpad-0.4
 sudo dkms install -m xpad -v 0.4
 ```
 # Updating
