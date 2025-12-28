@@ -7,6 +7,7 @@ additional flags like DANCEPAD_MAP_CONFIG to work.
 
 If you are updating any of the above tables, make sure you keep the sorted!
 
+<<<<<<< HEAD
 # Attribution
 
 To get attribution for your work when this goes upstream, make sure to add
@@ -18,4 +19,9 @@ You must use real name and a real email address as per:
 https://www.kernel.org/doc/html/v4.10/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin
 
 If you skip this line, your commit will be sent upstream anonymously.
+=======
+To get attribution for your work when this goes upstream, make sure to use
+a real name and a real email address as per:
+https://www.kernel.org/doc/html/v4.10/process/submitting-patches.html#sign-your-work-the-developer-s-certificate-of-origin
+>>>>>>> ahungry/feature/flydigi-vader3-extra-buttons
  -->
